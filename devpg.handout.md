@@ -1,7 +1,7 @@
 # Développer avec Postgres
 
-> devpg.handout.pdf
->
+[devpg.handout.pdf](https://dali.bo/devpg_pdf)
+
 > - J'ai pas tout compris précisément
 > - Tout ce qui est indiqué n'a pas d'utilisation directe, mais permet parfois de comprendre la logique de fonctionnement
 
